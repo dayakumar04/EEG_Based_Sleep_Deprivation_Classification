@@ -1,5 +1,5 @@
 # Data
-preprocessed_data/
+*.mat
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
